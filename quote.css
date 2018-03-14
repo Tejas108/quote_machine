@@ -1,0 +1,46 @@
+body {
+    background: #444446;
+}
+.container {
+    margin: 20px auto;
+    height: 558px;
+    width: 798px;
+    background-image: url('background.jpg');
+    position: relative;
+    text-align: center;
+}
+blockquote {
+    color: whitesmoke;
+    margin: 0 auto;
+    width: 80%;
+    height: 30%;
+    position: absolute;
+    top: 165px;
+    font-size: 1.5em;
+    left: 77px;
+    text-align: left;
+    font-family: "Oldenburg", serif;
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+}
+cite {
+    text-align: right;
+    font-size: .9em;
+    margin-top: 20px;
+    display: block;
+}
+
+button {
+    position: relative;
+    top: 438px;
+    width: 200px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    background: tan;
+    font-size: 1em;
+    font-family: "Times New Roman", serif;
+}
+
+button span {
+    display: block;
+}
